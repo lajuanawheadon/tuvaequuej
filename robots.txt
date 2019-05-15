@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ecoosohro.earl.io/sitemap.xml
